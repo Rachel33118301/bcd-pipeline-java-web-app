@@ -1,5 +1,5 @@
 pipeline {
-  agent { label 'macos' }
+  agent { label 'macoslsk' }
 //   options {
 //     buildDiscarder(logRotator(numToKeepStr: '5'))
 //   }
